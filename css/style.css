@@ -176,6 +176,11 @@ html {
 .border-w-5 {
   border-width: 5px; }
 
+.logo-size{
+    width:40px;
+    height:40px;
+    object-fit: contain;
+  }  
 .primary-black--hover {
   background: #00a651;
   color: #fff; }
@@ -251,7 +256,11 @@ h1, h2, h3, h4, h5,
   color: #364d59;
   font-family: "Roboto", serif; }
 
-.border-2 {
+.h2, h2{
+  font-size: 1.5em;
+}
+
+  .border-2 {
   border-width: 2px; }
 
 .text-black {
