@@ -30,6 +30,5 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
 This project is free to use and does not contains any license.
 This project was created for an NGO to help children with special needs in the society. 
