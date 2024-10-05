@@ -3,6 +3,7 @@ Gloria-United-International-Foundation
 
 <img width="1920" alt="img2" src="https://github.com/user-attachments/assets/ead7605a-2de3-401d-ad9c-efe9fd4fe32b">
 
+<img width="1920" alt="Screenshot 2024-10-05 at 11 31 57 AM" src="https://github.com/user-attachments/assets/4a380764-7177-42d2-ac14-26432bd4d21d">
 
 ## Prerequisites
 
